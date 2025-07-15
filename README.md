@@ -1,1 +1,5 @@
-# aastha hi everyone
+# 👩‍💻 Aastha Bajpai
+
+## 📜 My Certifications
+
+- 🧪 [Postman Student Expert]()
