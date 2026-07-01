@@ -54,7 +54,7 @@
 ### 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aasthabajpai010&theme=radical&no-frame=true&row=1&column=6" alt="trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=aasthabajpai010&theme=onedark&no-frame=true&row=1&column=6" alt="trophies" />
 </p>
 
 ---
