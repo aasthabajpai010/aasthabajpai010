@@ -38,12 +38,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aasthabajpai010&show_icons=true&theme=radical&count_private=true" alt="aasthabajpai010's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats-sigma-red.vercel.app/api?username=aasthabajpai010&show_icons=true&theme=radical&count_private=true" alt="aasthabajpai010's GitHub stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aasthabajpai010&theme=radical" alt="aasthabajpai010's streak stats" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aasthabajpai010&layout=compact&theme=radical" alt="aasthabajpai010's top languages" />
+  <img src="https://github-readme-stats-sigma-red.vercel.app/api/top-langs/?username=aasthabajpai010&layout=compact&theme=radical" alt="aasthabajpai010's top languages" />
 </p>
 
 ---
