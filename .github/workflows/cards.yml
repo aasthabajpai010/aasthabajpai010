@@ -1,0 +1,57 @@
+name: Generate Project Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate BhashaShikho card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=aasthabajpai010&repo=BhashaShikho&theme=radical&show_owner=false
+          path: cards/pin-bhashashikho.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Housing Price Prediction card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=aasthabajpai010&repo=housing-price-prediction&theme=radical&show_owner=false
+          path: cards/pin-housing-price-prediction.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Cat Dog Classifier card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=aasthabajpai010&repo=cat-dog-classifier-svm&theme=radical&show_owner=false
+          path: cards/pin-cat-dog-classifier-svm.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Portfolio Website card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=aasthabajpai010&repo=aasthabajpai010.github.io&theme=radical&show_owner=false
+          path: cards/pin-portfolio.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit generated cards
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add cards/
+          git commit -m "chore: update project cards" || echo "No changes to commit"
+          git push
