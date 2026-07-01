@@ -38,6 +38,28 @@
 
 ---
 
+### 🚀 Top Projects
+
+<p align="center">
+  <a href="https://github.com/aasthabajpai010/BhashaShikho">
+    <img src="https://github-readme-stats-sigma-red.vercel.app/api/pin/?username=aasthabajpai010&repo=BhashaShikho&theme=radical" alt="BhashaShikho" />
+  </a>
+  <a href="https://github.com/aasthabajpai010/housing-price-prediction">
+    <img src="https://github-readme-stats-sigma-red.vercel.app/api/pin/?username=aasthabajpai010&repo=housing-price-prediction&theme=radical" alt="Housing Price Prediction" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/aasthabajpai010/cat-dog-classifier-svm">
+    <img src="https://github-readme-stats-sigma-red.vercel.app/api/pin/?username=aasthabajpai010&repo=cat-dog-classifier-svm&theme=radical" alt="Cat Dog Classifier SVM" />
+  </a>
+  <a href="https://github.com/aasthabajpai010/aasthabajpai010.github.io">
+    <img src="https://github-readme-stats-sigma-red.vercel.app/api/pin/?username=aasthabajpai010&repo=aasthabajpai010.github.io&theme=radical" alt="Portfolio Website" />
+  </a>
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
