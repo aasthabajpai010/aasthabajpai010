@@ -51,7 +51,6 @@
 
 ---
 
-### 🏆 Trophies
 
 ### 🏆 Trophies
 
