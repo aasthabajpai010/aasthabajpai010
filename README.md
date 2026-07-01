@@ -51,21 +51,11 @@
 
 ---
 
-
-### 🏆 Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy-kannan.vercel.app/?username=aasthabajpai010&theme=radical&no-frame=true&row=1&column=6" alt="trophies" /></p>
-
----
-
 ### 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/aasthabajpai010/aasthabajpai010/output/github-contribution-grid-snake.svg" alt="contribution snake animation" />
 </p>
-
-> ⚠️ The snake animation needs a **one-time setup** (a GitHub Action that runs daily). See setup instructions below — it won't appear until that's added.
 
 ---
 
