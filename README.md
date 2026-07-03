@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:6DD5FA&height=200&section=header&text=Aastha%20Bajpai&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20from%20India&descAlignY=55&descSize=18" alt="header banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:6DD5FA&height=200&section=header&text=Aastha%20Bajpai&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=from%20India&descAlignY=55&descSize=18" alt="header banner" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Learning+DSA+%26+Web+Dev;Always+Building+Something+New" alt="typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=MERN+Stack+Enthusiast;Learning+DSA+%26+Web+Dev;Always+Building+Something+New" alt="typing animation" />
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🟢_OPEN_TO_WORK-Full%20Stack%20Developer%20Roles-0E75B6?style=for-the-badge" alt="open to work" />
+  <img src="https://img.shields.io/badge/🟢_OPEN_TO_WORK-0E75B6?style=for-the-badge" alt="open to work" />
 </p>
 
 ---
