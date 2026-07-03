@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:6DD5FA&height=200&section=header&text=Aastha%20Bajpai&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=from%20India&descAlignY=55&descSize=18" alt="header banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:6DD5FA&height=180&section=header&text=Aastha%20Bajpai&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=45" alt="header banner" width="100%"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=MERN+Stack+Enthusiast;Learning+DSA+%26+Web+Dev;Always+Building+Something+New" alt="typing animation" />
@@ -95,7 +95,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/just_dsa/">
-    <img src="https://leetcode-stats-two-lyart.vercel.app/api?username=just_dsa&theme=tokyonight" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/just_dsa?theme=dark&font=Baloo+2" alt="LeetCode Stats" />
   </a>
 </p>
 
