@@ -8,6 +8,10 @@
   <img src="https://komarev.com/ghpvc/?username=aasthabajpai010&label=Profile%20views&color=0e75b6&style=flat" alt="aasthabajpai010" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/🟢_OPEN_TO_WORK-Full%20Stack%20Developer%20Roles-0E75B6?style=for-the-badge" alt="open to work" />
+</p>
+
 ---
 
 - 🎯 Currently focusing on **DSA & Web Development**
@@ -15,6 +19,20 @@
 - 🌐 Check out my **[Portfolio](https://aasthabajpai010.github.io/aasthabajpai010.github.io/)**
 - 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/aastha-bajpai-6696992ba/)**
 - 🚀 Passionate about solving real-world problems through code
+
+---
+
+<details>
+<summary>📌 Click to know more about me</summary>
+<br>
+
+**🎓 Education**
+
+| Degree | Institute | Duration |
+|---|---|---|
+| Master of Computer Applications (MCA) | NIT Jamshedpur | 2024 – Present |
+
+</details>
 
 ---
 
@@ -63,12 +81,22 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-red.vercel.app/api?username=aasthabajpai010&show_icons=true&theme=radical&count_private=true" alt="aasthabajpai010's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aasthabajpai010&theme=radical" alt="aasthabajpai010's streak stats" height="165"/>
+  <img src="https://github-readme-stats-sigma-red.vercel.app/api?username=aasthabajpai010&show_icons=true&theme=tokyonight&count_private=true" alt="aasthabajpai010's GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aasthabajpai010&theme=tokyonight" alt="aasthabajpai010's streak stats" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-red.vercel.app/api/top-langs/?username=aasthabajpai010&layout=compact&theme=radical" alt="aasthabajpai010's top languages" />
+  <img src="https://github-readme-stats-sigma-red.vercel.app/api/top-langs/?username=aasthabajpai010&layout=compact&theme=tokyonight" alt="aasthabajpai010's top languages" />
+</p>
+
+---
+
+### 💻 Coding Platform Stats
+
+<p align="center">
+  <a href="https://leetcode.com/u/just_dsa/">
+    <img src="https://leetcode-stats-two-lyart.vercel.app/api?username=just_dsa&theme=tokyonight" alt="LeetCode Stats" />
+  </a>
 </p>
 
 ---
@@ -77,6 +105,14 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/aasthabajpai010/aasthabajpai010/output/github-contribution-grid-snake.svg" alt="contribution snake animation" />
+</p>
+
+---
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="random dev quote" />
 </p>
 
 ---
