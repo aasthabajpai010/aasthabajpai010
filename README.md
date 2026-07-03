@@ -1,15 +1,15 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:6DD5FA&height=180&section=header&text=Aastha%20Bajpai&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=45" alt="header banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,100:C86DD7&height=180&section=header&text=Aastha%20Bajpai&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=45" alt="header banner" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=MERN+Stack+Enthusiast;Learning+DSA+%26+Web+Dev;Always+Building+Something+New" alt="typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7B2FF7&center=true&vCenter=true&width=500&lines=MERN+Stack+Enthusiast;Learning+DSA+%26+Web+Dev;Always+Building+Something+New" alt="typing animation" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aasthabajpai010&label=Profile%20views&color=0e75b6&style=flat" alt="aasthabajpai010" />
+  <img src="https://komarev.com/ghpvc/?username=aasthabajpai010&label=Profile%20views&color=7b2ff7&style=flat" alt="aasthabajpai010" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🟢_OPEN_TO_WORK-0E75B6?style=for-the-badge" alt="open to work" />
+  <img src="https://img.shields.io/badge/🟢_OPEN_TO_WORK-7B2FF7?style=for-the-badge" alt="open to work" />
 </p>
 
 ---
@@ -45,40 +45,49 @@
 
 ### 🛠️ Skills
 
-<h4 align="center">Languages</h4>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40" style="margin:0 6px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin:0 6px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40" style="margin:0 6px"/>
-</p>
+<table align="center">
+<tr>
+<td align="center"><b>Languages</b></td>
+<td align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="35" height="35" style="margin:0 6px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35" style="margin:0 6px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="35" height="35" style="margin:0 6px"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>Frontend</b></td>
+<td align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="35" height="35" style="margin:0 6px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="35" style="margin:0 6px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="35" style="margin:0 6px"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>Backend</b></td>
+<td align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35" style="margin:0 6px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="35" height="35" style="margin:0 6px"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>Databases</b></td>
+<td align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="35" height="35" style="margin:0 6px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="35" height="35" style="margin:0 6px"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>Tools & Platforms</b></td>
+<td align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="35" height="35" style="margin:0 6px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="35" height="35" style="margin:0 6px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original-wordmark.svg" alt="postman" width="35" height="35" style="margin:0 6px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="35" height="35" style="margin:0 6px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="vercel" width="35" height="35" style="margin:0 6px"/>
+</td>
+</tr>
+</table>
 
-<h4 align="center">Frontend</h4>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="margin:0 6px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="margin:0 6px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="margin:0 6px"/>
-</p>
-
-<h4 align="center">Backend</h4>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="margin:0 6px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="margin:0 6px"/>
-</p>
-
-<h4 align="center">Databases</h4>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="margin:0 6px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="margin:0 6px"/>
-</p>
-
-<h4 align="center">Tools & Platforms</h4>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40" style="margin:0 6px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40" style="margin:0 6px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original-wordmark.svg" alt="postman" width="40" height="40" style="margin:0 6px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40" style="margin:0 6px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="vercel" width="40" height="40" style="margin:0 6px"/>
-</p>
 
 
 ---
@@ -109,12 +118,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-red.vercel.app/api?username=aasthabajpai010&show_icons=true&theme=tokyonight&count_private=true" alt="aasthabajpai010's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aasthabajpai010&theme=tokyonight" alt="aasthabajpai010's streak stats" height="165"/>
+  <img src="https://github-readme-stats-sigma-red.vercel.app/api?username=aasthabajpai010&show_icons=true&theme=radical&count_private=true" alt="aasthabajpai010's GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aasthabajpai010&theme=radical" alt="aasthabajpai010's streak stats" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-red.vercel.app/api/top-langs/?username=aasthabajpai010&layout=compact&theme=tokyonight" alt="aasthabajpai010's top languages" />
+  <img src="https://github-readme-stats-sigma-red.vercel.app/api/top-langs/?username=aasthabajpai010&layout=compact&theme=radical" alt="aasthabajpai010's top languages" />
 </p>
 
 ---
@@ -140,7 +149,7 @@
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="random dev quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="random dev quote" />
 </p>
 
 ---
