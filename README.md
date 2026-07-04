@@ -108,8 +108,8 @@
   <a href="https://github.com/aasthabajpai010/cat-dog-classifier-svm">
     <img src="https://raw.githubusercontent.com/aasthabajpai010/aasthabajpai010/main/cards/pin-cat-dog-classifier-svm.svg" alt="Cat Dog Classifier SVM" />
   </a>
-  <a href="https://github.com/aasthabajpai010/aasthabajpai010.github.io">
-    <img src="https://raw.githubusercontent.com/aasthabajpai010/aasthabajpai010/main/cards/pin-portfolio.svg" alt="Portfolio Website" />
+  <a href="https://github.com/aasthabajpai010/AI-College-ERP">
+    <img src="https://raw.githubusercontent.com/aasthabajpai010/aasthabajpai010/main/cards/pin-erp.svg" alt="AI College ERP" />
   </a>
 </p>
 
