@@ -138,6 +138,14 @@
 
 ---
 
+### 📈 Metrics Dashboard
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aasthabajpai010/aasthabajpai010/main/metrics.svg" alt="metrics dashboard" width="100%"/>
+</p>
+
+---
+
 ### 🐍 Contribution Snake
 
 <p align="center">
