@@ -138,10 +138,10 @@
 
 ---
 
-### 📈 Metrics Dashboard
+### 🧊 3D Contribution Calendar
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aasthabajpai010/aasthabajpai010/main/metrics.svg" alt="metrics dashboard" width="100%"/>
+  <img src="https://raw.githubusercontent.com/aasthabajpai010/aasthabajpai010/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" width="100%"/>
 </p>
 
 ---
