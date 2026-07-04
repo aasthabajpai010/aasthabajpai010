@@ -40,12 +40,12 @@ jobs:
           path: cards/pin-cat-dog-classifier-svm.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate Portfolio Website card
+      - name: Generate AI College ERP card
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=aasthabajpai010&repo=aasthabajpai010.github.io&theme=radical&show_owner=false
-          path: cards/pin-portfolio.svg
+          options: username=aasthabajpai010&repo=AI-College-ERP&theme=radical&show_owner=false
+          path: cards/pin-erp.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit generated cards
