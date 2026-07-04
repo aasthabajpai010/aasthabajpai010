@@ -97,19 +97,19 @@
 
 <p align="center">
   <a href="https://github.com/aasthabajpai010/BhashaShikho">
-    <img src="https://raw.githubusercontent.com/aasthabajpai010/aasthabajpai010/main/cards/pin-bhashashikho.svg" alt="BhashaShikho" />
+    <img src="https://raw.githubusercontent.com/aasthabajpai010/aasthabajpai010/main/cards/pin-bhashashikho.svg" alt="BhashaShikho" height="150" width="400"/>
   </a>
   <a href="https://github.com/aasthabajpai010/housing-price-prediction">
-    <img src="https://raw.githubusercontent.com/aasthabajpai010/aasthabajpai010/main/cards/pin-housing-price-prediction.svg" alt="Housing Price Prediction" />
+    <img src="https://raw.githubusercontent.com/aasthabajpai010/aasthabajpai010/main/cards/pin-housing-price-prediction.svg" alt="Housing Price Prediction" height="150" width="400"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/aasthabajpai010/cat-dog-classifier-svm">
-    <img src="https://raw.githubusercontent.com/aasthabajpai010/aasthabajpai010/main/cards/pin-cat-dog-classifier-svm.svg" alt="Cat Dog Classifier SVM" />
+    <img src="https://raw.githubusercontent.com/aasthabajpai010/aasthabajpai010/main/cards/pin-cat-dog-classifier-svm.svg" alt="Cat Dog Classifier SVM" height="150" width="400"/>
   </a>
   <a href="https://github.com/aasthabajpai010/AI-College-ERP">
-    <img src="https://raw.githubusercontent.com/aasthabajpai010/aasthabajpai010/main/cards/pin-erp.svg" alt="AI College ERP" />
+    <img src="https://raw.githubusercontent.com/aasthabajpai010/aasthabajpai010/main/cards/pin-erp.svg" alt="AI College ERP" height="150" width="400"/>
   </a>
 </p>
 
