@@ -138,14 +138,6 @@
 
 ---
 
-### 🧊 3D Contribution Calendar
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aasthabajpai010/aasthabajpai010/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" width="100%"/>
-</p>
-
----
-
 ### 🐍 Contribution Snake
 
 <p align="center">
