@@ -1,22 +1,22 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,100:C86DD7&height=180&section=header&text=Aastha%20Bajpai&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=45" alt="header banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:6DD5FA&height=180&section=header&text=Aastha%20Bajpai&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=45" alt="header banner" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7B2FF7&center=true&vCenter=true&width=500&lines=MERN+Stack+Enthusiast;Learning+DSA+%26+Web+Dev;Always+Building+Something+New" alt="typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=MERN+Stack+Enthusiast;Learning+DSA+%26+Web+Dev;Always+Building+Something+New" alt="typing animation" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aasthabajpai010&label=Profile%20views&color=7b2ff7&style=flat" alt="aasthabajpai010" />
+  <img src="https://komarev.com/ghpvc/?username=aasthabajpai010&label=Profile%20views&color=0e75b6&style=flat" alt="aasthabajpai010" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🟢_OPEN_TO_WORK-7B2FF7?style=for-the-badge" alt="open to work" />
+  <img src="https://img.shields.io/badge/🟢_OPEN_TO_WORK-0E75B6?style=for-the-badge" alt="open to work" />
 </p>
 
 ---
 
 - 🎯 Currently focusing on **DSA & Web Development**
 - 💬 Ask me about **React.js, Node.js, Express.js, MongoDB, JavaScript**
-- 🌐 Check out my **[Portfolio](https://aasthabajpai010.github.io/aasthabajpai010.github.io/)**
+- 🌐 Check out my **[Portfolio](https://aasthabajpai.vercel.app/)**
 - 🚀 Passionate about solving real-world problems through code
 
 ---
@@ -118,12 +118,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-red.vercel.app/api?username=aasthabajpai010&show_icons=true&theme=radical&count_private=true" alt="aasthabajpai010's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aasthabajpai010&theme=radical" alt="aasthabajpai010's streak stats" height="165"/>
+  <img src="https://github-readme-stats-sigma-red.vercel.app/api?username=aasthabajpai010&show_icons=true&theme=tokyonight&count_private=true" alt="aasthabajpai010's GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aasthabajpai010&theme=tokyonight" alt="aasthabajpai010's streak stats" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-red.vercel.app/api/top-langs/?username=aasthabajpai010&layout=compact&theme=radical" alt="aasthabajpai010's top languages" />
+  <img src="https://github-readme-stats-sigma-red.vercel.app/api/top-langs/?username=aasthabajpai010&layout=compact&theme=tokyonight" alt="aasthabajpai010's top languages" />
 </p>
 
 ---
@@ -149,7 +149,7 @@
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="random dev quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="random dev quote" />
 </p>
 
 ---
